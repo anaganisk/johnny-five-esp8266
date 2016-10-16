@@ -1,8 +1,8 @@
 {
   "name": "homebot",
   "version": "0.0.1",
-  "description": "HomeBot based on arduino and esp8266",
-  "repository": "https://github.com/anaganisk/homebot",
+  "description": "Connecting Johnny-five (Arduino, Raspberry Pi etc) over WiFi without a wired connection to the PC.",
+  "repository": "https://github.com/anaganisk/johnny-five-esp8266",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
